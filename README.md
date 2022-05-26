@@ -1,3 +1,4 @@
+<img src="https://progress-bar.dev/40?title=Project Progress" alt="AntiTamperExample" height="30" />
 <div align="center">
     <a href="https://github.com/Jimmy-Baby/JBAntiTamper_Public">
         <img src="https://user-images.githubusercontent.com/19278924/170451674-f6a21455-8433-4516-9fc2-249ca7c957ea.png" alt="AntiTamperLogo" height="140" />
